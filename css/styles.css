@@ -1,6 +1,6 @@
-* {
+/** {
   outline: 1pt solid rgba(128, 128, 0, 0.2);
-}
+}*/
 
 :root {
   --logo-font: 'Raleway', sans-serif;
