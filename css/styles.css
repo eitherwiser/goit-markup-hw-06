@@ -148,13 +148,11 @@ li {
   justify-content: center;
   align-items: center;
   vertical-align: top; /* btn alignment for Chromium engine */
-
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 1.88;
+  line-height: 1.9;
   letter-spacing: 0.06em;
-
   border-style: hidden;
   border-radius: 4px;
   color: var(--main-light-color);
@@ -815,6 +813,7 @@ footer ==================================================================
 
 .footer .container {
   display: flex;
+  align-items: baseline;
   justify-content: space-between;
 }
 
